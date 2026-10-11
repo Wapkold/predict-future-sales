@@ -1,0 +1,13 @@
+# Данные соревнования и результаты прогона
+data/
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# IDE и ОС
+.idea/
+.vscode/
+.DS_Store

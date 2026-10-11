@@ -1,0 +1,7 @@
+{
+  "moving_average_1m": 1.1358170090812756,
+  "moving_average_3m": 1.0209400683402359,
+  "moving_average_6m": 1.028319607070607,
+  "lightgbm": 0.8687357581851065,
+  "lightgbm_best_iteration": 82
+}
